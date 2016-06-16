@@ -1,0 +1,8 @@
+{
+  "name" : "tjournal/vacancy-php",
+  "autoload": {
+    "psr-4": {
+      "TJ\\Uploader\\": "src"
+    }
+  }
+}
